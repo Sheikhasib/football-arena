@@ -5,6 +5,8 @@
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 h3 {
   color: black;
